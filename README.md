@@ -11,6 +11,7 @@ I quickly realised that the code was part of the StealRAT because of the error r
 
 Just in case this tells you something:
 The StealRAT was found inside a compromised Joomla 2.5 installation operating during March 2014.
+A little more descriptive post is [here](http://0x109.tuxfamily.org/stealrat-botnet-resurrected/) 
 About the repo
 ------
 Well, not much really. Two files, the first is the obfuscated one and the second is what I deobfuscated.
