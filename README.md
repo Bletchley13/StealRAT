@@ -1,7 +1,7 @@
 StealRAT
 ========
 
-Let me be clear. I was neither the developer of StealRAT botnet nor in any way affiliated with the developer(s).
+Let me be clear. I am neither the developer of StealRAT botnet nor in any way affiliated with the developer(s).
 
 
 History
