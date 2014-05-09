@@ -1,4 +1,21 @@
 StealRAT
 ========
 
-part of StealRAT's source code
+Let me be clear. I was neither the developer of StealRAT botnet nor in any way affiliated with the developer(s).
+
+
+History
+-------
+I contacted a sys-admin who gave me a couple of mail logs and a php file.
+I quickly realised that the code was part of the StealRAT because of the error reporting method implemented.
+
+About the repo
+------
+Well, not much really. Two files, the first is the obfuscated one and the second is what I deobfuscated.
+
+How to use
+----------
+Hopefully you will use it for education. At least I find it fun to try and figure out what other people thought during the development process and figure out why they did it that way.
+
+There is one function that is never used throughout the file. If everything works fine I may get the rest of the files as well.
+
