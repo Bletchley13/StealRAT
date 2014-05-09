@@ -9,6 +9,8 @@ History
 I contacted a sys-admin who gave me a couple of mail logs and a php file.
 I quickly realised that the code was part of the StealRAT because of the error reporting method implemented.
 
+Just in case this tells you something:
+The StealRAT was found inside a compromised Joomla 2.5 installation operating during March 2014.
 About the repo
 ------
 Well, not much really. Two files, the first is the obfuscated one and the second is what I deobfuscated.
